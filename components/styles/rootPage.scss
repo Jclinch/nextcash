@@ -1,0 +1,17 @@
+// rootPage.scss
+@media screen and (max-width: 768px) {
+    
+    .total-balance-box {
+       
+        .normal-font {
+            font-size: 1.5rem;
+        }
+        
+        .small-font {
+            font-size: 1rem; // Reduced size when the balance exceeds 8 digits
+        }
+        .tiny-font {
+            font-size: 0.9rem; // Reduced size when the balance exceeds 8 digits
+        }
+    }
+}

@@ -69,6 +69,7 @@ const config = {
           900: "#101828",
         },
       },
+     
       backgroundImage: {
         "bank-gradient": "linear-gradient(90deg, #0179FE 0%, #4893FF 100%)",
         "gradient-mesh": "url('/icons/gradient-mesh.svg')",
@@ -101,6 +102,7 @@ const config = {
         "accordion-down": "accordion-down 0.2s ease-out",
         "accordion-up": "accordion-up 0.2s ease-out",
       },
+    
     },
   },
   plugins: [require("tailwindcss-animate")],

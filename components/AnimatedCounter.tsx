@@ -5,10 +5,11 @@ import CountUp from 'react-countup'
 const AnimatedCounter = ( {amount }: {amount: number }) => {
   return (
     <div className='w-full'>
+      <span className='text-sm'>₦</span>
         <CountUp 
         decimals={2}
         decimal='.'
-        prefix='₦ '
+        // prefix='₦'
         end={amount} />
           
         
