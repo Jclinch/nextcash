@@ -9,7 +9,7 @@
 > - **Instant Transfers & Payments:** Send money quickly and securely, both locally and internationally.<br />
 > - **Smart Budgeting Tools:** Gain insights into your spending habits and optimize your financial goals.<br />
 > - **Advanced Security:** Protect your data with the latest in encryption technology and biometric authentication.<br />
-- **24/7 Support:** Get assistance whenever you need it with our round-the-clock customer service.<br />
+> - **24/7 Support:** Get assistance whenever you need it with our round-the-clock customer service.<br />
 
 Welcome to the future of banking. Welcome to NextCash.<br />
 ## Getting Started<br />
